@@ -1,0 +1,14 @@
+C:\Users\cesar\source\repos\Proyecto_DesarrolloSoftware\Proyecto_DesarrolloSoftware\bin\Debug\Proyecto_DesarrolloSoftware.exe.config
+C:\Users\cesar\source\repos\Proyecto_DesarrolloSoftware\Proyecto_DesarrolloSoftware\bin\Debug\Proyecto_DesarrolloSoftware.exe
+C:\Users\cesar\source\repos\Proyecto_DesarrolloSoftware\Proyecto_DesarrolloSoftware\bin\Debug\Proyecto_DesarrolloSoftware.pdb
+C:\Users\cesar\source\repos\Proyecto_DesarrolloSoftware\Proyecto_DesarrolloSoftware\bin\Debug\Guna.UI2.dll
+C:\Users\cesar\source\repos\Proyecto_DesarrolloSoftware\Proyecto_DesarrolloSoftware\obj\Debug\Proyecto_DesarrolloSoftware.csproj.AssemblyReference.cache
+C:\Users\cesar\source\repos\Proyecto_DesarrolloSoftware\Proyecto_DesarrolloSoftware\obj\Debug\Proyecto_DesarrolloSoftware.Form1.resources
+C:\Users\cesar\source\repos\Proyecto_DesarrolloSoftware\Proyecto_DesarrolloSoftware\obj\Debug\Proyecto_DesarrolloSoftware.Properties.Resources.resources
+C:\Users\cesar\source\repos\Proyecto_DesarrolloSoftware\Proyecto_DesarrolloSoftware\obj\Debug\Proyecto_DesarrolloSoftware.csproj.GenerateResource.cache
+C:\Users\cesar\source\repos\Proyecto_DesarrolloSoftware\Proyecto_DesarrolloSoftware\obj\Debug\Proyecto_DesarrolloSoftware.csproj.CoreCompileInputs.cache
+C:\Users\cesar\source\repos\Proyecto_DesarrolloSoftware\Proyecto_DesarrolloSoftware\obj\Debug\Proyecto.50923389.Up2Date
+C:\Users\cesar\source\repos\Proyecto_DesarrolloSoftware\Proyecto_DesarrolloSoftware\obj\Debug\Proyecto_DesarrolloSoftware.exe
+C:\Users\cesar\source\repos\Proyecto_DesarrolloSoftware\Proyecto_DesarrolloSoftware\obj\Debug\Proyecto_DesarrolloSoftware.pdb
+C:\Users\cesar\source\repos\Proyecto_DesarrolloSoftware\Proyecto_DesarrolloSoftware\obj\Debug\Proyecto_DesarrolloSoftware.Registro.resources
+C:\Users\cesar\source\repos\Proyecto_DesarrolloSoftware\Proyecto_DesarrolloSoftware\obj\Debug\Proyecto_DesarrolloSoftware.Recuperacion.resources
